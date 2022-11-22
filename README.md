@@ -1,1 +1,3 @@
-# ZEA_Python_Lab4.2
+# Python - 4.2 Lab
+
+![Screenshot](screenshot.png)
