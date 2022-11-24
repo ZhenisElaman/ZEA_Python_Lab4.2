@@ -22,10 +22,7 @@ class Main(QDialog):
 
     def solve(self):
         self.textEdit_words.clear()
-        text = self.textEdit_text.toPlainText()  # получаем наш текст
-#        txt=text.split()
-#        print(max(txt, key=len))
-#        print(min(txt, key=len))
+        text = self.textEdit_text.toPlainText()
         array = []
         for i in text:
             if i not in array:
